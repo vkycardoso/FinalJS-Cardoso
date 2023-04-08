@@ -1,0 +1,16 @@
+[
+	{
+	"id": 1,
+	"nombre": "Nuestro Instagram ",
+	"descripcion": "Borges Winsg BA ",
+	"img": "https://www.instagram.com/p/CSiR67lM1lt/",
+	"alt": "IG"
+	},
+	{
+	"id": 2,
+	"nombre": "10% descuesto en efectivo ",
+	"descripcion":" Descuento en efectivo" ,
+	"img": "https://img.freepik.com/vector-premium/10-descuento-venta_100478-626.jpg",
+	"alt": "descuento"
+	}
+]
